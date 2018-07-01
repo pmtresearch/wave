@@ -1,7 +1,5 @@
 # Waveforms
 
-![Convergence Demo](demo.gif)
-
 This interactive guide introduces and explores waveforms. It covers how to read waveform graphs, goes over the fundamental physics of sound, teaches how it relates to music and harmony, and demonstrates how to build complex tones from simple ones.
 
 This guide is aimed at a general audience–no prior knowledge is required.
